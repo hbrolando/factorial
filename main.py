@@ -1,7 +1,7 @@
 from nicegui import ui
 with ui.card().classes():
     # Suma de dos numeros
-    ui.label('FACTORIAL').classes('self-center text-sky-600 font-bold').style('font-size: 50px')
+    ui.label('FACTORIAL DE UN NUMERO').classes('self-center text-sky-600 font-bold').style('font-size: 50px')
     ui.image(source='https://img.freepik.com/vetores-premium/ilustracao-matematica-ilustracao-de-formas-geometricas_611881-395.jpg?w=2000')
     
     #Funcion factorial
